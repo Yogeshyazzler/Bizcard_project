@@ -1,0 +1,8 @@
+streamlit
+easyocr
+pandas
+numpy
+sqlite3
+re
+io
+Image
